@@ -49,7 +49,7 @@ export default function Home() {
               transition: '0.3s',
               '&:hover': {
                 border: '1px solid white',
-                backgroundColor: 'rgba(255, 255, 255, 0.15)',
+                backgroundColor: 'rgba(255, 255, 255, 0.1)',
                 padding: '30px',
               }
             }}
